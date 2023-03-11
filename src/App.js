@@ -1,7 +1,7 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
 import EditEventPage from './pages/EditEvent';
-import ErrorPage from './pages/Error';;;;;;;;
+import ErrorPage from './pages/Error';;;;;;;
 import EventDetailPage, {
   loader as eventDetailLoader,
   action as deleteEventAction,
